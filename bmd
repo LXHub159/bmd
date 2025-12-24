@@ -27,5 +27,5 @@ if isLocalPlayerWhitelisted then
     })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ni7ykt/LX_HUB/refs/heads/main/Lingxiao-hub"))()
 else
-    localPlayer:Kick("请联系作者添加白名单")
+    localPlayer:Kick("你好，你好像還沒有白名單聯係我加白名單吧。我discrod是：_xingchen1 凌霄團dc：https://discord.gg/zc7ANA3M ")
 end
