@@ -2452,12 +2452,12 @@ spawn(function()
 end);
 DiscordServerParagraph = Tabs.InfoTab:Paragraph({
     Title = "Discord Server",
-    Desc = "Link Discord DYHUB!",
+    Desc = "Link Discord LingXiao!",
     TextXAlignment = "Left",
     Buttons = {{
         Title = "Copy Link Discord",
         Callback = function()
-            setclipboard("https://dsc.gg/dyhub");
+            setclipboard("https://discord.gg/K3teP99hTj");
             WindUI:Notify({
                 Title = "Notication",
                 Content = "Discord Link Copied",
