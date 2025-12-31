@@ -52,8 +52,12 @@ local UITab5 = win:Tab("传送",'7734068321')
 
 local about = UITab1:section("公告",true)
 
-about:Label("kismile制作")
+about:Label("xingchen制作")
 about:Label("脚本测试中")
+about:Label("我操你媽逼的")
+about:Label("幹你娘雞掰")
+about:Label("你是不是LX團的")
+about:Label("不是LX團拿三小的人擠人啊")
 local about = UITab2:section("脚本",true)
 about:Slider("视角缩放距离", "Slider",  128, 128, 10000, false, function(Value)
     game:GetService("Players").LocalPlayer.CameraMaxZoomDistance = Value
